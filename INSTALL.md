@@ -13,6 +13,7 @@ required:
 * glib and gio 2.0 libraries and development files
 * libtss2-sys, libtss2-mu and TCTI libraries from https://github.com/tpm2-software/tpm2-tss
 * dbus
+* which
 
 **NOTE**: Different GNU/Linux distros package glib-2.0 differently and so
 additional packages may be required. The tabrmd requires the GObject and
